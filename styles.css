@@ -2,6 +2,12 @@
 /* Main section controls*/
 body{
 	background-color: blue;
+	background-image: url("springier.jpg");
+	background-size: cover;
+}
+img{
+	border-style: solid;
+	border-width: 2px;
 }
 
 
